@@ -1,3 +1,6 @@
 [submodule "ggxxnet-lobby"]
 	path = ggxxnet-lobby
 	url = https://github.com/AlbertKozera/ggxxnet-lobby
+[submodule "ggxxnet"]
+	path = ggxxnet
+	url = https://github.com/ArekoG/ggxxnet
