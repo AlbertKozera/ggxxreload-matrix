@@ -1,0 +1,3 @@
+[submodule "ggxxnet-lobby"]
+	path = ggxxnet-lobby
+	url = https://github.com/AlbertKozera/ggxxnet-lobby
