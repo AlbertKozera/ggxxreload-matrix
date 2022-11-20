@@ -4,3 +4,6 @@
 [submodule "ggxxnet"]
 	path = ggxxnet
 	url = https://github.com/ArekoG/ggxxnet
+[submodule "ggxxreload"]
+	path = ggxxreload
+	url = https://github.com/AlbertKozera/ggxxreload
